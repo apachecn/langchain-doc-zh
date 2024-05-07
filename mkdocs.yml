@@ -1,0 +1,90 @@
+site_name: 【布客】Zeppelin 中文翻译
+site_url: https://zeppelin.apachecn.org
+
+# Repository
+repo_name: apachecn/zeppelin-doc-zh
+repo_url: https://github.com/apachecn/zeppelin-doc-zh
+
+theme:
+  name: material
+  language: zh
+  custom_dir: themes_material
+  logo: https://data.apachecn.org/img/logo/logo_green.png
+  analytics:
+    gtag: G-8DP4GX97XY
+  features:
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  # - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - javascripts/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
+nav:
+  - "langchain 中文文档": "index.md"
+  - "Get started":
+    - "Introduction": "docs/get_started/introduction.md"
+    - "Quickstart": "docs/get_started/quickstart.md"
+    - "Installation": "docs/get_started/installation.md"
+  - "Use cases":
+    - "Q&A with RAG": "docs/use_cases/question_answering.md"
+    - "Extracting structured output": "docs/use_cases/extraction.md"
+    - "Chatbots": "docs/use_cases/chatbots.md"
+    - "Tool use and agents": "docs/use_cases/tool_use.md"
+    - "Query analysis": "docs/use_cases/query_analysis.md"
+    - "Q&A over SQL + CSV": "docs/use_cases/sql.md"
+    - "More": "docs/use_cases/graph.md"
+  - "Expression Language":
+    - "Get started": "docs/expression_language/get_started.md"
+    - "Runnable interface": "docs/expression_language/interface.md"
+    - "Primitives": "docs/expression_language/primitives.md"
+    - "Advantages of LCEL": "docs/expression_language/why.md"
+    - "Streaming": "docs/expression_language/streaming.md"
+    - "Add message history (memory)": "docs/expression_language/how_to/message_history.md"
+    - "More": "docs/expression_language/how_to/routing.md"
+  - "Ecosystem":
+    - "🦜🛠️ LangSmith": "docs/langsmith.md"
+    - "🦜🕸️LangGraph": "docs/langgraph.md"
+    - "🦜️🏓 LangServe": "docs/langserve.md"
+  - "Security": "docs/security.md"
+  - "贡献指南": "contrib.md"
+  - "关于我们": "https://www.apachecn.org/about"
+  - "加入我们": "https://www.apachecn.org/join"
+  - "中文资源合集": "https://docs.apachecn.org"
