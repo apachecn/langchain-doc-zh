@@ -11,7 +11,7 @@
 >
 > 项目地址：<https://langchain.apachecn.org/docs/get_started/quickstart>
 >
-> 原始地址：<https://python.langchain.com/docs/get_started/introduction/get_started/quickstart.html>
+> 原始地址：<https://python.langchain.com/docs/get_started/quickstart>
 
 开始写原始页面的翻译内容
 

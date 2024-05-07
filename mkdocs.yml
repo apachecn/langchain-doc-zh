@@ -1,9 +1,9 @@
-site_name: 【布客】Zeppelin 中文翻译
-site_url: https://zeppelin.apachecn.org
+site_name: 【布客】LangChain 中文翻译
+site_url: https://langchain.apachecn.org
 
 # Repository
-repo_name: apachecn/zeppelin-doc-zh
-repo_url: https://github.com/apachecn/zeppelin-doc-zh
+repo_name: apachecn/langchain-doc-zh
+repo_url: https://github.com/apachecn/langchain-doc-zh
 
 theme:
   name: material
@@ -60,10 +60,11 @@ extra_css:
 nav:
   - "langchain 中文文档": "index.md"
   - "Get started":
-    - "Introduction": "docs/get_started/introduction.md"
+    - "Introduction": "docs/get_started/index.md"
     - "Quickstart": "docs/get_started/quickstart.md"
     - "Installation": "docs/get_started/installation.md"
   - "Use cases":
+    - "Introduction": "docs/use_cases/index.md"
     - "Q&A with RAG": "docs/use_cases/question_answering.md"
     - "Extracting structured output": "docs/use_cases/extraction.md"
     - "Chatbots": "docs/use_cases/chatbots.md"
@@ -72,6 +73,7 @@ nav:
     - "Q&A over SQL + CSV": "docs/use_cases/sql.md"
     - "More": "docs/use_cases/graph.md"
   - "Expression Language":
+    - "Introduction": "docs/expression_language/index.md"
     - "Get started": "docs/expression_language/get_started.md"
     - "Runnable interface": "docs/expression_language/interface.md"
     - "Primitives": "docs/expression_language/primitives.md"
@@ -80,7 +82,9 @@ nav:
     - "Add message history (memory)": "docs/expression_language/how_to/message_history.md"
     - "More": "docs/expression_language/how_to/routing.md"
   - "Ecosystem":
-    - "🦜🛠️ LangSmith": "docs/langsmith.md"
+    - "🦜🛠️ LangSmith":
+      - "Introduction": "docs/langsmith/index.md"
+      - "LangSmith Walkthrough": "docs/langsmith/walkthrough.md"
     - "🦜🕸️LangGraph": "docs/langgraph.md"
     - "🦜️🏓 LangServe": "docs/langserve.md"
   - "Security": "docs/security.md"

@@ -9,9 +9,9 @@
 
 > 译者：[片刻小哥哥](https://github.com/jiangzhonglian)
 >
-> 项目地址：<https://langchain.apachecn.org/docs/use_cases/tool_use>
+> 项目地址：<https://langchain.apachecn.org/docs/get_started/introduction>
 >
-> 原始地址：<https://python.langchain.com/docs/use_cases/tool_use>
+> 原始地址：<https://python.langchain.com/docs/get_started/introduction>
 
 开始写原始页面的翻译内容
 
