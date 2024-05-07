@@ -11,7 +11,7 @@
 >
 > 项目地址：<https://langchain.apachecn.org/docs/langserve>
 >
-> 原始地址：<https://python.langchain.com/docs/get_started/introduction/langserve.html>
+> 原始地址：<https://python.langchain.com/docs/langserve>
 
 开始写原始页面的翻译内容
 

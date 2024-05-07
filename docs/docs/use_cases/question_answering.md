@@ -11,7 +11,7 @@
 >
 > 项目地址：<https://langchain.apachecn.org/docs/use_cases/question_answering>
 >
-> 原始地址：<https://python.langchain.com/docs/get_started/introduction/use_cases/question_answering.html>
+> 原始地址：<https://python.langchain.com/docs/use_cases/question_answering>
 
 开始写原始页面的翻译内容
 

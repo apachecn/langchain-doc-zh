@@ -60,7 +60,7 @@ extra_css:
 nav:
   - "langchain 中文文档": "index.md"
   - "Get started":
-    - "docs/get_started/introduction.md"
+    - "docs/get_started/index.md"
     - "Quickstart": "docs/get_started/quickstart.md"
     - "Installation": "docs/get_started/installation.md"
   - "Use cases":
@@ -73,7 +73,7 @@ nav:
     - "Q&A over SQL + CSV": "docs/use_cases/sql.md"
     - "More": "docs/use_cases/graph.md"
   - "Expression Language":
-    - "docs/use_cases/index.md"
+    - "docs/expression_language/index.md"
     - "Get started": "docs/expression_language/get_started.md"
     - "Runnable interface": "docs/expression_language/interface.md"
     - "Primitives": "docs/expression_language/primitives.md"
@@ -83,7 +83,7 @@ nav:
     - "More": "docs/expression_language/how_to/routing.md"
   - "Ecosystem":
     - "🦜🛠️ LangSmith":
-      - "docs/langsmith.md"
+      - "docs/langsmith/index.md"
       - "LangSmith Walkthrough": "docs/langsmith/walkthrough.md"
     - "🦜🕸️LangGraph": "docs/langgraph.md"
     - "🦜️🏓 LangServe": "docs/langserve.md"

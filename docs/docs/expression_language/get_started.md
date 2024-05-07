@@ -11,7 +11,7 @@
 >
 > 项目地址：<https://langchain.apachecn.org/docs/expression_language/get_started>
 >
-> 原始地址：<https://python.langchain.com/docs/get_started/introduction/expression_language/get_started.html>
+> 原始地址：<https://python.langchain.com/docs/expression_language/get_started>
 
 开始写原始页面的翻译内容
 

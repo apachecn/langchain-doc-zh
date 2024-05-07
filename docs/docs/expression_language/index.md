@@ -9,9 +9,9 @@
 
 > 译者：[片刻小哥哥](https://github.com/jiangzhonglian)
 >
-> 项目地址：<https://langchain.apachecn.org/docs/use_cases/tool_use>
+> 项目地址：<https://langchain.apachecn.org/docs/langsmith>
 >
-> 原始地址：<https://python.langchain.com/docs/use_cases/tool_use>
+> 原始地址：<https://python.langchain.com/docs/langsmith>
 
 开始写原始页面的翻译内容
 

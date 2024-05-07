@@ -11,7 +11,7 @@
 >
 > 项目地址：<https://langchain.apachecn.org/docs/use_cases/chatbots>
 >
-> 原始地址：<https://python.langchain.com/docs/get_started/introduction/use_cases/chatbots.html>
+> 原始地址：<https://python.langchain.com/docs/use_cases/chatbots>
 
 开始写原始页面的翻译内容
 
