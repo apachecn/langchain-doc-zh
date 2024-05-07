@@ -6,7 +6,7 @@
 
 ### 一、认领
 
-首先查看[整体进度](https://github.com/apachecn/zeppelin-doc-zh/)，确认没有人认领了你想认领的章节。
+首先查看[整体进度](https://github.com/apachecn/langchain-doc-zh/)，确认没有人认领了你想认领的章节。
 
 然后回复 ISSUE 来认领章节，注明“章节 + QQ 号”。
 
